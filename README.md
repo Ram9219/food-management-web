@@ -1,2 +1,2 @@
-# food-management-web
-this website is for how to manage the food wastage in the aur srrounding hotel and mess 
+# food-management-website
+a website that help use to manage the recipes and helps to view/shortlist recipes in a new manner
